@@ -705,42 +705,42 @@ button:active{
     .one{
         background-image:linear-gradient(
             to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%
-        ), url(earth_mb.jpg);
+        ), url(earth_mb.jpeg);
     }
     .two{
         background-image: linear-gradient(
             to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%
-        ),url(night_active_mb.jpg);
+        ),url(night_mb.jpeg);
     }
     .three{
         background-image: linear-gradient(
             to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%
-        ),url(player_mb.jpg);
+        ),url(player_mb.jpeg);
     }
     .four{
         background-image: linear-gradient(
             to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%
-        ),url(card_mb.JPG);
+        ),url(car_mb.jpeg);
     }
     .five{
         background-image: linear-gradient(
             to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%
-        ),url(road_mb.JPG);
+        ),url(road_mb.jpeg);
     }
     .six{
         background-image: linear-gradient(
             to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%
-        ),url(costomos_mb.JPG);
+        ),url(costomos_mb.jpeg);
     }
     .seven{
         background-image: linear-gradient(
             to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%
-        ),url(curiosity_mb.JPG);
+        ),url(curiosity_mb.jpeg);
     }
     .eight{
         background-image: linear-gradient(
             to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%
-        ),url(sky_mb.jpg);
+        ),url(sky_mb.jpeg);
     }
 }
 
