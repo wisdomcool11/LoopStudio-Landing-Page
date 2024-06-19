@@ -9,7 +9,7 @@ toggleMenu.onclick = function () {
 
 // scroll reveal effect
 ScrollReveal({
-    reset: true,
+    // reset: true,
     distance: '80px',
     duration: 2500,
     delay: 40
