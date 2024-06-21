@@ -551,13 +551,15 @@ button:active{
     background-size: cover;
     width: 280px;
     height: 500px;
-    transition: transform 800ms ease;
+    transition: transform 800ms ease,
+        box-shadow 750ms ease-in-out
+    ;
 }
 
 .card:hover{
     transform: scale(1.074);
-    box-shadow: 0 4px 6px 0 rgba(0,0,0, .8),
-        0 6px 12px 0 rgba(0,0,0, .19)
+    box-shadow: 0 6px 8px 0 rgba(0,0,0, .7),
+        0 7px 16px 0 rgba(0,0,0, .19)
     ;
 }
 
